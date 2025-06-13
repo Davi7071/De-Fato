@@ -1,0 +1,10 @@
+// ⚠️ Aviso sobre o roteamento:
+// O Expo Router só reconhece arquivos dentro da pasta "app/" como rotas.
+// Como estamos organizando as telas na pasta "View/", essa gambiarra (proxy) é necessária:
+//
+// Cada arquivo dentro de "app/" apenas reexporta sua respectiva tela de "View/".
+// Exemplo: app/telaA.jsx → export { default } from '../View/telaA';
+//
+// Se algum dia alguém descobrir uma forma de configurar o Expo Router
+// para aceitar outro diretório de rotas, por favor, arruma isso e salva a nossa alma.
+// Valeu!

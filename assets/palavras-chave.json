@@ -1,0 +1,19 @@
+{
+  "jogos": 150,
+  "notícias": 120,
+  "dados": 95,
+  "usuários": 80,
+  "covid": 75,
+  "Brasil": 60,
+  "economia": 55,
+  "tecnologia": 50,
+  "política": 45,
+  "saúde": 40,
+  "esporte": 35,
+  "música": 30,
+  "cinema": 25,
+  "educação": 20,
+  "meio ambiente": 15,
+  "negócios": 10,
+  "entretenimento": 5
+}
